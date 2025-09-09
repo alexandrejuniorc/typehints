@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "python": ".venv/bin/python",
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+  }
+}
